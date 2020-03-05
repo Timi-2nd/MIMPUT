@@ -6538,54 +6538,54 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="EndingDirtySlutDesc">finishes her slutty quest being fucked by all races of creatures of the kingdom, day by day!</text>
 		
 	<!--SCREEN: NAKED-->
-			<text name="ScreenNaked_Careful">Be careful! You\'re going out in your quest NAKED!</text>
+			<text name="ScreenNaked_Careful">Sei vorsichtig! Du gehst raus in Dein Abenteuer NACKT!</text>
 			
 	<!--SCREEN: OPTIONS-->
-		<text name="ScreenOptions_Options">Options</text>
-		<text name="ScreenOptions_Title_FXMUSIC">FX - MUSIC</text>
-			<text name="ScreenOptions_Header_Sounds">Sounds</text>
-			<text name="ScreenOptions_Header_FXVolume">FX Volume</text>
-			<text name="ScreenOptions_Header_MusicVolume">Music Volume</text>
-			<text name="ScreenOptions_Header_SoundsONOFF">Sounds ON/OFF</text>
-			<text name="ScreenOptions_Header_Shoes">Shoes/Feet sounds</text>
-			<text name="ScreenOptions_Header_Coins">Coin Sounds</text>
-			<text name="ScreenOptions_Header_Fart">Allow Farting</text>
-			<text name="ScreenOptions_Header_ReplaceBoeing">Replace Boeing sounds with Semen sounds</text>
-			<text name="ScreenOptions_Header_WaterfallAmbient">Waterfall ambient sounds</text>
-		<text name="ScreenOptions_Title_TEXT">TEXT and INFO</text>
-			<text name="ScreenOptions_Header_CurrentLang">Current:</text>
-			<text name="ScreenOptions_Header_GameLanguage">Game Language</text>
-				<text name="ScreenOptions_ClickUploadXML">(click to upload XML)\n(The game will RESTART)</text>
-			<text name="ScreenOptions_Header_TextBalloons">Text Balloons</text>
-				<text name="ScreenOptions_TextDialoguesGoomba">Text in Dialogues (like in goomba scenes)</text>
-			<text name="ScreenOptions_Header_FPSBenchmark">FPS Benchmark</text>
-				<text name="ScreenOptions_JustRightGameScreen">Just right click in the Game screen (Show/Hide CPU)</text>
+		<text name="ScreenOptions_Options">Optionen</text>
+		<text name="ScreenOptions_Title_FXMUSIC">FX - MUSIK</text>
+			<text name="ScreenOptions_Header_Sounds">Geräusche</text>
+			<text name="ScreenOptions_Header_FXVolume">FX Lautstärke</text>
+			<text name="ScreenOptions_Header_MusicVolume">Musik Lautstärke</text>
+			<text name="ScreenOptions_Header_SoundsONOFF">Geräusche AN/AUS</text>
+			<text name="ScreenOptions_Header_Shoes">Schuh/Fuß Geräusche</text>
+			<text name="ScreenOptions_Header_Coins">Münzgeräusche</text>
+			<text name="ScreenOptions_Header_Fart">Erlaube furzen</text>
+			<text name="ScreenOptions_Header_ReplaceBoeing">Ersetzt \'Boeing\' Geräusche mit Sperma Geräuschen</text>
+			<text name="ScreenOptions_Header_WaterfallAmbient">Wasserfallgeräusche</text>
+		<text name="ScreenOptions_Title_TEXT">TEXT und INFO</text>
+			<text name="ScreenOptions_Header_CurrentLang">Derzeitig:</text>
+			<text name="ScreenOptions_Header_GameLanguage">Spiel Sprache</text>
+				<text name="ScreenOptions_ClickUploadXML">(klicken um XML hochzuladen)\n(Das spiel wird NEUSTARTEN)</text>
+			<text name="ScreenOptions_Header_TextBalloons">Sprechblasen</text>
+				<text name="ScreenOptions_TextDialoguesGoomba">Text in Dialogen (wie in Goomba Szenen)</text>
+			<text name="ScreenOptions_Header_FPSBenchmark">FPS Benchmark (Test)</text>
+				<text name="ScreenOptions_JustRightGameScreen">Einfach Rechtsklick auf den Spielbildschirm (Zeigen/Verstecken CPU)</text>
 			<text name="ScreenOptions_Header_HUD">HUD</text>
-				<text name="ScreenOptions_YouCanPlay100">You can play with a 100% clean screen!</text>
-		<text name="ScreenOptions_Title_BOOBIES_BELLY"> BOOBIES/BELLY</text>
+				<text name="ScreenOptions_YouCanPlay100">Du kannst mit einem 100% sauberen Display spielen!</text>
+		<text name="ScreenOptions_Title_BOOBIES_BELLY"> MÖPSE/BAUCH</text>
 			<text name="ScreenOptions_Header_BoobMinMax">Boob Min/Max</text>
-				<text name="ScreenOptions_BraWontSupport">(Bras won\'t support her cups)</text>
-			<text name="ScreenOptions_Header_BellyMinMax">Belly Min/Max</text>
-				<text name="ScreenOptions_CanOnlyIfPregnant">(Can only be disabled if not pregnant!)</text>
-			<text name="ScreenOptions_Header_ShredBraIf">Shred Bra if...</text>
-			<text name="ScreenOptions_Header_BellyCanIncrease">Bigger Belly when...</text>
-			<text name="ScreenOptions_Header_PregnancyChance">Pregnancy Chance</text>
-			<text name="ScreenOptions_Header_NPCBoobBelly">NPC Boob/Belly</text>
+				<text name="ScreenOptions_BraWontSupport">(BHs werden ihre Körpchengröße nicht unterstützen)</text>
+			<text name="ScreenOptions_Header_BellyMinMax">Bauch Min/Max</text>
+				<text name="ScreenOptions_CanOnlyIfPregnant">(Kann nur deaktiviert werden wenn nicht schwanger!)</text>
+			<text name="ScreenOptions_Header_ShredBraIf">BH zerreißen wenn...</text>
+			<text name="ScreenOptions_Header_BellyCanIncrease">Größerer Bauch wenn...</text>
+			<text name="ScreenOptions_Header_PregnancyChance">Chance auf Schwangerschaft</text>
+			<text name="ScreenOptions_Header_NPCBoobBelly">Brust/Bauch NPC</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
-			<text name="ScreenOptions_Header_Timeout">Timeout (seconds)</text>
-				<text name="ScreenOptions_SheWillBePunished">(She will be punished if X seconds are reached)</text>
-			<text name="ScreenOptions_Header_SameDialoguesIf">Same dialogues if the scene is replayed</text>
-				<text name="ScreenOptions_IfNotNymphSameThingScenes">(If YES and she is not a nymph, she will always say the same thing in scenes)</text>
-			<text name="ScreenOptions_Header_FunnyDialogue">Funny Dialogue Mode</text>
-				<text name="ScreenOptions_IfYesCreaturesMightTalkLikeHer">(If YES, creatures might talk like her)</text>
-			<text name="ScreenOptions_Header_DuringScenes">During Scenes...</text>
-				<text name="ScreenOptions_CertainScenesMightNotBeAffected">(Certain scenes might not be affected)</text>
-			<text name="ScreenOptions_Header_ClassicNymphGait">Classic Nymph Gait</text>
-				<text name="ScreenOptions_SluttyWalkClassic">(If YES, her \'slutty\' walk will change to classic)</text>
-			<text name="ScreenOptions_Header_Protection">Protection (Blink)</text>
-				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(If NO, no protection after using doors, pipes, or after a erotic scene. Doesn\'t affect Starman)</text>
-			<text name="ScreenOptions_Header_FirePeachBurned">Fire Peach if \'burned\', back to Peach if lost.</text>
-				<text name="ScreenOptions_FirePeachBurnedDescription">Touching fire will \'BURN\' Peach until she loses a life.</text>
+			<text name="ScreenOptions_Header_Timeout">Timeout (Sekunden)</text>
+				<text name="ScreenOptions_SheWillBePunished">(Sie wird bestraft wenn X Sekunden erreicht sind)</text>
+			<text name="ScreenOptions_Header_SameDialoguesIf">Gleiche Dialoge wenn die Szene wiederholt wird</text>
+				<text name="ScreenOptions_IfNotNymphSameThingScenes">(Wenn JA und sie keine Schlampe ist, wird sie immer in den Szenen immer das gleiche sagen)</text>
+			<text name="ScreenOptions_Header_FunnyDialogue">Modus: Witzige Dialoge</text>
+				<text name="ScreenOptions_IfYesCreaturesMightTalkLikeHer">(Wenn JA, könnten Kreaturen so wie sie sprechen)</text>
+			<text name="ScreenOptions_Header_DuringScenes">Während Szenen...</text>
+				<text name="ScreenOptions_CertainScenesMightNotBeAffected">(Bestimmte Szenen mögen nicht betroffen sein)</text>
+			<text name="ScreenOptions_Header_ClassicNymphGait">Klassische Gangart</text>
+				<text name="ScreenOptions_SluttyWalkClassic">(Wenn JA, wird sich ihr \'schlampiger\' Gang zum klassischen ändern)</text>
+			<text name="ScreenOptions_Header_Protection">Schutz (Zwinker)</text>
+				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(Wenn NEIN, gibt es keinen Schutz nach dem Benutzen von Türen, Rohren oder nach einer erotik Szene. Betrifft nicht Starman)</text>
+			<text name="ScreenOptions_Header_FirePeachBurned">Wenn sich Feuer Peach \'verbrennt\', wird sie wieder Peach wenn sie stirbt.</text>
+				<text name="ScreenOptions_FirePeachBurnedDescription">Berührung mit Feuer wird Peach \'VERBRENNEN\' bis sie ein Leben verliert.</text>
 			<text name="ScreenOptions_Header_LingerieCanShred">Dessous können zerreissen</text>
 				<text name="ScreenOptions_LingerieCanShredDescription">(Wenn NEIN, wird sie bei einem Treffer nicht ihre Strapse, Heels, Strümpfe und Handschuhe verlieren. ACHTUNG, sie wird ein Leben verlieren, wenn sie getroffen wird während ihre Geilheitsanzeige bei null ist)</text>
 			<text name="ScreenOptions_Header_NewPeachPortrait">Junges Peach Portrait</text>
@@ -6636,33 +6636,33 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	
 	
 	<!-- HUD-->
-		<text name="HUD1">HUD: cant zoom when not focusing anything!</text>
+		<text name="HUD1">HUD: kein zoomen wenn nichts fokusiert ist!</text>
 		
 	<!--TIPS (you can add or remove lines below, in case you want much more tips or just a few). -->
-		<text name="tip">TIP:Upon starting a level, you can go back to worldmap if you enter inside the brown keep, a white door or just by walking left.</text>
-		<text name="tip">TIP:Pressing BACKSPACE hides the HUD!</text>
-		<text name="tip">TIP:Walking bobombs will tease you and eventually fuck your pussy. BUT the running ones who can blow might fuck you earlier, be warned!</text>
-		<text name="tip">TIP:If you are using a key in your bumhole, creatures will spare it (no anal sex). So, be relieved!</text>
-		<text name="tip">TIP:If the game is lagging, you can press the \'=\' to change the quality and the \'-\' to change zoom.</text>
-		<text name="tip">TIP:Google Chrome or \'Flash Projector\' (standalone app from adobe) may boost game performance.</text>
-		<text name="tip">TIP:Certain levels only appear in certain days, like the Shyguy Village in world 3.</text>
-		<text name="tip">TIP:Is the game slow? Blame Flash and its way to render vectors, not your machine. You can try to activate Stationary camera in the options.</text>
-		<text name="tip">TIP:Bugs may appear. If the princess locks up, try SPACE/SHIFT many times. If not, press DEL (she will lose a life). You can also load a saved game.</text>
-		<text name="tip">TIP:If you\'re using \'Dont make scenes require SKIP presses\', there are creatures you have to fill the bar up, so disable it in those places!</text>
-		<text name="tip">TIP:You can grab Koopa and buzzy beetle shells. Just pass over a NON-MOVING shell while pressing RUN key.</text>
-		<text name="tip">TIP:You can survive physical harm as long as your horny bar is up.</text>
-		<text name="tip">TIP:Press keys 0 to 9 while touching a laid enemy to choose a scene. Then press \'DO-OVER\' key. Not all enemies have this feature.</text>
-		<text name="tip">TIP:Press ENTER for PANIC mode! CTRL returns to the game. Then press / in the keypad to re-enable sounds.</text>
-		<text name="tip">TIP:You can use the inventory only in the worldmap. Press \'attack key\' to open it and click on any item with the mouse. Maximum of 5 items!</text>
-		<text name="tip">TIP:Bob-Ombs have different scenes. It depends on when you catch them!</text>
-		<text name="tip">TIP:If you find a bug, try to reproduce it, press PAGE DOWN key and take a screenshot, then post in LOK or Aedler site. Luigi will fix it!</text>
-		<text name="tip">TIP:To exit a level, you either enter the door at the fort, get an item, or walk past the edges of the screen.</text>
-		<text name="tip">TIP:If you\'re dirty, you can clean yourself off in the bath or at checkpoints. If \'Clean Cum while Underwater\' in ON, just get underwater!</text>
-		<text name="tip">TIP:Sockhops are green bag-like enemies. Although they are not enemies exactly, they can harm you, but you can also make them happy!</text>
-		<text name="tip">TIP:You can use \'DEL\' key to make the princess lose a life if you\'re stuck!</text>
-		<text name="tip">TIP:Remember the princess will only wear a custom outfit if you set a given powerup to it, then search for it in the game!</text>
-		<text name="tip">TIP:You can have bigger bellies depending on the amount of cum in a vaginal/anal scene, or by taking certain potions.</text>
-		<text name="tip">TIP:Don\'t forget to check the key confgurations in PAUSE MENU (CTRL key!) You will check the keys to zoom in, for example.</text>
+		<text name="tip">TIPP:Beim Start eines Levels kannst du zur Weltkarte zurück, indem du das braune Schloss eine eine weiße Tür betrittst, oder einfach nach links läufst.</text>
+		<text name="tip">TIPP:Drücke BACKSPACE um das HUD zu verstecken!</text>
+		<text name="tip">TIPP:Laufende Bobombs werden dich aufgeilen und letztendlich deine Möse ficken. ABER die rennenden, welche explodieren können, könnten Dich früher flachlegen. Sei gewarnt!</text>
+		<text name="tip">TIPP:Falls du ein Schlüssel für dein Poloch benutzt, werden Kreaturen es verschonen (kein Analsex). So dann, seit erleichtert!</text>
+		<text name="tip">TIPP:Wenn das Spiel ruckelt, kannst du die \'=\' Taste drücken um die Qualität und die \'-\' Taste drücken um den Zoom zu ändern.</text>
+		<text name="tip">TIPP:Google Chrome oder \'Flash Projector\' (standalone app von Adobe) können die Spielperformance verbessern.</text>
+		<text name="tip">TIPP:Bestimmte Level erscheinen nur an bestimmten Tagen, wie beispielsweise die Shyguy Village in Welt 3.</text>
+		<text name="tip">TIPP:Ist das Spiel langsam? Verurteile Flash und seine Methoden Vektoren zu rendern. Nicht deine Maschine. Du kannst versuchen in den Optionen die fixierte Kamera zu aktivieren.</text>
+		<text name="tip">TIPP:Fehler können auftreten. Falls die Prinzessin einfriert, versuche mehrfach (häufig) LEERTASTE/SHIFT. Falls es nicht klappt, drücke ENTF (sie wird ein Leben verlieren). Du kannst auch einen Spielstand laden.</text>
+		<text name="tip">TIPP:Wenn du die Option \'Szenen benötigen keine Überspringen-Klicks\' verwendest: Es gibt Kreaturen bei denen Du eine Anzeige auffüllen musst, Also deaktiviere die Option an diesen Spielstellen!</text>
+		<text name="tip">TIPP:Du kannst Koopa und buzzy beetle shells greifen. Einfach über einen NICHT BEWEGENDEN PANZER laufen während die RENN-Taste betätigt wird.</text>
+		<text name="tip">TIPP:Du kannst physikalischen Schaden überleben so lange wie deine Geilheitsanzeige gefüllt ist.</text>
+		<text name="tip">TIPP:Drücke die Tasten 0 bis 9 während Du einen besiegten Gegner berührst um eine Szene auszuwählen. Dann drücke \'NOCHMAL\'. Nicht alle Gegner bieten dieses Feature.</text>
+		<text name="tip">TIPP:Drücke ENTER für den PANIK Modus! STRG bringt dich ins Spiel zurück. Dann drücke / auf dem Ziffernblock um den Sound zu reaktivieren.</text>
+		<text name="tip">TIPP:Du kannst das Inventar nur auf der Weltkarte benutzen. Drücke die \'Angriffs Taste\' um es zu öffnen und klicke mit der Maus auf einen beliebigen Gegenstand. Maximal 5 Gegenstände!</text>
+		<text name="tip">TIPP:Bob-Ombs haben verschiedene Szenen. Es kommt darauf an wann du sie fängst!</text>
+		<text name="tip">TIPP:Wenn du einen Bug (Fehler) findest, versuche ihn zu reproduzieren, Drücke BILD RUNTER und mache einen Screenshot, dann poste es im LOK Forum oder auf der Aedler Seite. Luigi wird es beheben!</text>
+		<text name="tip">TIPP:Um einen Level zu verlassen musst du entweder die Tür am Schloss betreten, ein Item erhalten, oder aus dem Bildschirmrand laufen.</text>
+		<text name="tip">TIPP:Wenn du dreckig bist kannst du dich im Bad oder an Checkpoints reinigen. Wenn \'Sperma entfernen wenn unterwasser\' AN ist, geh einfach unterwasser!</text>
+		<text name="tip">TIPP:Sockhops sind grüne taschenartige Gegner. Obwohl sie nicht exakt Gegner sind, können sie dich verletzen, aber du kannst sie auch glücklich machen!</text>
+		<text name="tip">TIPP:Du kannst \'ENTF\' drücken, damit die Prinzessin ein Leben verliert, wenn du feststeckst!</text>
+		<text name="tip">TIPP:Denke daran, die Prinzessin wird nur ein benutzerdefiniertes Outfit tragen wenn du ein bestimmtes Powerup damit verknüpfst. Suche dann im Spiel danach!</text>
+		<text name="tip">TIPP:Je nach Ejakulatmenge in einer vaginal/anal Szene kannst du größere Bäuche bekommen. Oder auch durch das Einnehmen bestimmter Tränke.</text>
+		<text name="tip">TIPP:Vergiss nicht die Tastenbelegung im PAUSEN MENÜ (STRG Taste!) zur prüfen. Du kannst z.B. die Taste zum reinzoomen prüfen.</text>
 
 		<!--FOR THE FUTURE or TO BE DEPRECATED:Cherbil is a cute small testicle or butt like creature who can fart aphrodisiacs. You will love playing with them (soon).
 		TIP:If you get any bugs, please contact the developer in Legend of Krystal forums, or...erhm...Luigi?
