@@ -6512,30 +6512,30 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="SMB3Desc">Mario, after using his raccoon powers, finally had beaten up all aiships, removing the curse of all kings. The princess was captive in Bowser castle, waiting for him, who appeared in the large lobby from the left, while she was crying. Both embraced each other and they decided to go to a calmier place using raccoon powers.</text>
 		<text name="SMRPG">Super Mario Bros RPG</text>
 			<text name="SMRPGDesc">After beating Smithy, peace returns to mushroom kingdom, and a parade was made, with all the inhabitants. The princess, embarrassed, asked Mario to follow her and climb the big  star, who is now happy and shining. Both started to flirt each other...</text>
-		<text name="Ending">Ending</text>
-		<text name="NEXTENDING">NEXT ENDING</text>
-		<text name="LASTENDING">LAST ENDING</text>
-		<text name="STARTCONTINUE">START/\nCONTINUE</text>
-		<text name="ReturnToPeachCastleBonuses">(Return to Peach Castle. Bonuses might appear in some levels)</text>
-		<text name="TheRealEndingOf">The Real Ending of</text>
-		<text name="g_endings">Did you watch all the endings?</text>
-		<text name="g_ending1">Do you know how SMB1 really ended?</text>
-		<text name="g_ending2">Do you know how SMB2 really ended?</text>
-		<text name="g_ending3">Do you know how SMB3 really ended?</text>
-		<text name="g_endingRPG">Do you know how Super Mario RPG really ended?</text>
-		<text name="g_virgin">Was your virginity intact but not yet fucked Mario?</text>
-		<text name="g_nymph">Are you a...NYMPH?</text>
+		<text name="Ending">ENDE</text>
+		<text name="NEXTENDING">NÄCHSTES ENDE</text>
+		<text name="LASTENDING">LETZTES ENDE</text>
+		<text name="STARTCONTINUE">START/\nWEITERMACHEN</text>
+		<text name="ReturnToPeachCastleBonuses">(Kehre in Peache's Schloss zurück. In einigen Levels könnten Boni erscheinen)</text>
+		<text name="TheRealEndingOf">Das wahre Ende von</text>
+		<text name="g_endings">Hast du alle Enden gesehen?</text>
+		<text name="g_ending1">Weißt du wie SMB1 wirklich geendet hat?</text>
+		<text name="g_ending2">Weißt du wie SMB2 wirklich geendet hat?</text>
+		<text name="g_ending3">Weißt du wie SMB3 wirklich geendet hat?</text>
+		<text name="g_endingRPG">Weißt du wie das Super Mario RPG wirklich geendet hat?</text>
+		<text name="g_virgin">Warst du noch Jungfrau, aber hast noch nicht Sex mit Mario gehabt?</text>
+		<text name="g_nymph">Bist du eine...Schlampe?</text>
 		
 	<!--SCREEN: ENDINGS in the CASTLE-->
-			<text name="EndingMoreSex">ENDING: \'PRINCESS DISCOVERING MORE SEX\'</text>
-				<text name="EndingMoreSexDesc">explores her growing sexuality every day with the Toads of her kingdom and all of her very horny friends!</text>
-			<text name="EndingOsamaQueen">ENDING: \'PRINCESS AS OSAMA\' S QUEEN\'</text>
-				<text name="EndingOsamaQueenDesc">finishes her quest as being the Queen of Osama! The princess is Pregnant and both are going to fulfill their desires!</text>
-			<text name="EndingVirginLover">ENDING: \'A VIRGIN PRINCESS WITH HER LOVER\'</text>
-				<text name="EndingVirginLoverDesc">finishes her quest VIRGIN!</text>
-				<text name="EndingVirginLoverDesc2">decides to Marry her (and fuck her relentlessly with love!)</text>
-			<text name="EndingDirtySlut">ENDING: \'DIRTY SLUT\'</text>
-				<text name="EndingDirtySlutDesc">finishes her slutty quest being fucked by all races of creatures of the kingdom, day by day!</text>
+			<text name="EndingMoreSex">ENDE: \'PRINZESSIN ENTDECKT MEHR SEX\'</text>
+				<text name="EndingMoreSexDesc">entdeckt jeden Tag ihre wachsende Sexualität mit den Toads und all ihren notgeilen Freunden des Königreiches !</text>
+			<text name="EndingOsamaQueen">ENDE: \'PRINZESSIN ALS OSAMA\' S KÖNIGIN\'</text>
+				<text name="EndingOsamaQueenDesc">beendet ihr Abenteuer als Königin von Osama! Die Prinzessin ist schwanger und beide erfüllen sich ihre Sehnsüchte!</text>
+			<text name="EndingVirginLover">ENDE: \'EINE JUNGFRÄULICHE PRINZESSIN MIT IHREM LIEBHABER\'</text>
+				<text name="EndingVirginLoverDesc">beendet ihr Abenteuer als JUNGFRAU!</text>
+				<text name="EndingVirginLoverDesc2">entscheidet sie zu heiraten (und sie unermüdlich zu ficken ... mit Liebe!)</text>
+			<text name="EndingDirtySlut">ENDE: \'DRECKIGES LUDER\'</text>
+				<text name="EndingDirtySlutDesc">beendet ihr hurenhafte Abenteuer damit Tag für Tag von allen Arten von Kreaturen des Königreiches gefickt zu werden!</text>
 		
 	<!--SCREEN: NAKED-->
 			<text name="ScreenNaked_Careful">Sei vorsichtig! Du gehst raus in Dein Abenteuer NACKT!</text>
