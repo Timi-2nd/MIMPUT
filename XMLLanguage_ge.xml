@@ -6497,21 +6497,21 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="g_toad">Be horny and they\'ll fuck you, Princess!</text>
 		<text name="g_thwomp">They\'re heavy rocks that also need love!</text>
 		<text name="g_piranha">Look at the pipes and \'Pacman\' Plants too!</text>
-		<text name="g_friends">There are other friends along the levels!</text>
-		<text name="g_bowser">Did you get 500,000 points?</text>
-		<text name="g_mario">Go save your lover! Mamma mia!</text>
-		<text name="g_boss">Get screwed up by all the big guys!</text>
-		<text name="g_birdo">She guards grey castles and eagle doors.</text>
+		<text name="g_friends">Es gibt noch weitere Freunde entlang des Weges!</text>
+		<text name="g_bowser">Hast du 500,000 Punkte erreicht?</text>
+		<text name="g_mario">Geh schon und rette deinen Lover! Mamma mia!</text>
+		<text name="g_boss">Werde von allen großen Typen genagelt!</text>
+		<text name="g_birdo">Sie bewacht graue Schlösser und Adler Türen.</text>
 		
 		<!--ENDINGS-->
 		<text name="SMB1">Super Mario Bros. 1</text>
-			<text name="SMB1Desc">Mario finally knocked out Bowser Koopa in his grey castle, throwing him in the lava. Now, the savior will release his damnsel.</text>
+			<text name="SMB1Desc">Schließlich konnte Mario Bowser Koopa in seinem grauen Schloss bezwingen und warf ihn in die Lava. Jetzt wird der Retter seine holde Maid befreien.</text>
 		<text name="SMB2">Super Mario Bros. 2</text>
-			<text name="SMB2Desc">Mario, Luigi, Toad and the Princess saved the SubCon world, knocking down Wart, the lizard. Now they deserve some resting in one of the Toad houses, in a magical and calmier clearing...</text>
+			<text name="SMB2Desc">Mario, Luigi, Toad und die Prinzessin retteten die Welt der Träume, erschlugen Wart, die Eidechse. Jetzt verdienten sie sich ein wenig Erholung in einem Haus der Toads, in a magical and calmier clearing...</text>
 		<text name="SMB3">Super Mario Bros. 3</text>
-			<text name="SMB3Desc">Mario, after using his raccoon powers, finally had beaten up all aiships, removing the curse of all kings. The princess was captive in Bowser castle, waiting for him, who appeared in the large lobby from the left, while she was crying. Both embraced each other and they decided to go to a calmier place using raccoon powers.</text>
+			<text name="SMB3Desc">Nachdem Mario seine Waschbärkräfte benutzte, besiegte er schließlich alle Luftschiffe, was den Fluch, der auf allen Königen lastete, brach. Die Prinzessin war in Bowser's Schloss gefangen, wartend auf ihn, welcher die große Lobby von links betrat, während sie weinte. Beide fielen sich in die Arme und sie entschieden sich an einen ruhigeren Platz zu begeben um ausgiebig die Waschbärkräfte auszutesten.</text>
 		<text name="SMRPG">Super Mario Bros RPG</text>
-			<text name="SMRPGDesc">After beating Smithy, peace returns to mushroom kingdom, and a parade was made, with all the inhabitants. The princess, embarrassed, asked Mario to follow her and climb the big  star, who is now happy and shining. Both started to flirt each other...</text>
+			<text name="SMRPGDesc">Nach dem Sieg über Smithy kehrte wieder Frieden in das Pilzkönigreich und eine Parade mit allen Einwohnern des Landes wurde abgehalten. Die Prinzessin bat Mario verlegen, ihr zu folgen und den großen Stern, welcher jetzt glücklich und am strahlen ist. zu erklimmen. Beide begannen zu flirten...</text>
 		<text name="Ending">ENDE</text>
 		<text name="NEXTENDING">NÄCHSTES ENDE</text>
 		<text name="LASTENDING">LETZTES ENDE</text>
