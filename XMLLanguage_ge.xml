@@ -1893,221 +1893,276 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	<!--LADY BOW (the female boo) - its considered a friend -->
 			<scenes scene="ladybow1">
-				<e i="1">Oh ho ho ho!\nMy Boos tell me you\'ve been quite naughty, Princess!</e>
-				<p i="1">Oh? You\'re...beautiful\nbut I can\'t...</p>
-				<p i="1a">(Giggle) Maybe I\ncan help you then!</p>
+				<e i="1">Oh hu hu hu!\nMeine kleinen Boos haben mir erzählt das du ziemlich ungezogen warst, Prinzessin!</e>
+				<p i="1">Oh? Du bist...schön\naber ich kann nicht...</p>
+				<p i="1a">(Kicher) Dann kann\nich dir vielleicht helfen!</p>
 			</scenes>			
 			<scenes scene="ladybow2">
-				<e i="1">Mmm, {CHARACTER_NAME}...\nI just can\'t help myself around you!</e>
-				<e i="2">I\'m excited, too! To\nsee just what kind of slut you\'ve become!\nGet her, boys!</e>
-				<e i="3">Mmm! It\nlooks delicious!</e>
-				<p i="3">WHAT!?\nWhat did you do to me?</p>
-				<p i="4">Oh my! My Boo dick feels so good! Suck it hard, Lady Bow!</p>
-				<p i="5">Hngh! I\'m cumming!\nI\'m cumming for you, Lady Bow!</p>
-				<e i="6">Yum! Refreshi--Oh,\nwow! My Boos must have really fucked you silly!</e>
-				<e i="7">Alright! Time\nto take you for a ride!</e>
-				<e i="8">Oh yes! Fuck me,\nPrincess! Fuck me with that Boo dick!</e>
-				<e i="9">Ooh! I\'m\ncumming! I can feel your cum, too!</e>
-				<e i="10">Your dick is too\ngood! You\'re gonna make me cum again, Princess!</e>
-				<e i="11">Oh god! I\'m\ncumming, dear! Just stay here and fuck me. Only me!</e>
-				<e i="12">Gush my\ntranscendental pussy, Priiiiiincess!</e>
-				<e i="13">I\'ve fallen for\nyou, Princess. Promise you\'ll come and fuck me again soon.</e>
-				<p i="13">Mm. I need to\nfind Mario, but I think I... can make some detours for you.</p>
+				<e i="1">Mmm, {CHARACTER_NAME}...\nIn deiner Gegenwart kann ich mir einfach nicht anders behelfen!</e>
+				<e i="2">Weißt du, ich bin auch aufgeregt!\nZu sehen welch ein geiles Stück aus dir geworden ist!\nSchnappt sie euch, Jungs!</e>
+				<e i="3">Mmm! Sieht\nzum anbeißen aus!</e>
+				<p i="3">WAS!?\nWas hast du mit mir gemacht?</p>
+				<p i="4">Ach du..! Mein Boo Schwanz fühlt sich so gut an! Lutsch fester, Lady Bow!</p>
+				<p i="5">Hngh! Ich komme!\nIch komme für dich, Lady Bow!</p>
+				<e i="6">Yum! Erfrische--Oh,\nwow! Meine Boos müssen dir wirklich das Hirn rausgevögelt haben!</e>
+				<e i="7">Okay! Zeit\nfür einen wilden Ritt!</e>
+				<e i="8">Oh ja! Fick mich,\nPrinzessin! Fick mich mit deinem Boo-Schwanz!</e>
+				<e i="9">Ooh! Ich komme! Ich kann sogar dein Sperma fühlen!</e>
+				<e i="10">Dein Schwanz ist zu gut\nWenn du weiter machst komme ich nochmal, Prinzessin!</e>
+				<e i="11">Oh Gott! Ich\nkomme Liebes! Bleib doch einfach hier und fick mich weiter. Nur mich!</e>
+				<e i="12">Spritz in meine\nmetaphysische Muschi, Priiiiiinzessiiin!</e>
+				<e i="13">Ich bin dir\nverfallen, Prinzessin. Versprich mir, dass du bald wieder kommst und es mit mir treibst.</e>
+				<p i="13">Mm. Ich muss\nMario finden, aber ich denke... ich werde für dich ein paar Umwege machen können.</p>
 			</scenes>			
 			<scenes scene="ladybow3">
-				<e i="1">\nI\'ve got you\nagain, Princess!</e>
-				<p i="1">Oops, caught\nagain!</p>
+				<e i="1">\nHab dich\Prinzessin!</e>
+				<p i="1">Uups, schon\nwieder erwischt!</p>
 				<e i="2">\nWhee hee\nhee hee!</e>
-				<p i="2">Um, what\nare you--? Oh!</p>
-				<p i="3">Whoops,\nI slipped!</p>
-				<p i="4">Eek, my poor\nbutthole! This is way too big!</p>
-				<p i="4a">Ooh right into\nmy butthole!\nIt\'s so big!</p>
-				<p i="5">Get me off of\nthis thing!</p>
-				<p i="5a">It\'s stretching\nme out!</p>
-				<p i="6">Erp, something\'s coming!</p>
-				<p i="7">Gosh! My entire\nbody was filled\nwith cum...</p>
+				<p i="2">Ehm, was\nmachst--? Oh!</p>
+				<p i="3">Huuups,\nich bin ausgerutscht!</p>
+				<p i="4">Wäh, mein armes\nPoloch! Das ist viel zu groß!</p>
+				<p i="4a">Ooh gleich rein\nin mein Arschloch!\nEr ist so groß!</p>
+				<p i="5">Nimm das Ding von\nmir weg!</p>
+				<p i="5a">Es dehnt mich aus!</p>
+				<p i="6">Erp, irgendetwas kommt!</p>
+				<p i="7">Güte! Mein gesamter\nKörper wurde mit\nSperma gefüllt...</p>
 			</scenes>			
 
 	<!--CHEEP CHEEPs (Fish since SMB1)-->
 			<scenes scene="cheep1">
-				<p i="1">Hey! Stop\nsucking my nipples!</p>
-				<p i="1a">Are you hungry\nmy little boy? Suck me!</p>
+				<p i="1">Hey! Hör auf\nan meinen Nippeln zu saugen!</p>
+				<p i="1a">Bist du hunrig\nmein Kleiner? Ja, saug an mir!</p>
 			</scenes>			
 			<scenes scene="cheep2">
-				<p i="1">Hey! Calm\ndown! Just suck it tenderly! Ohh!!</p>
-				<p i="1a">Hey! Leave\nmy...little pussy alone!</p>
+				<p i="1">Hey! Beruhige dich!\nSaug einfach zärtlich daran! Ohh!!</p>
+				<p i="1a">Hey! Lass meine...\nkleine Pussy in Ruhe!</p>
 			</scenes>			
 			<scenes scene="cheep3">
-				<p i="1">Ohhh...what are\nyou guys doing to me...(SMACK!) Ahhh!</p>
-				<p i="2">Oh there\'s a\ndozen of them now! They\'re eating me alive!</p>
-				<p i="3">Ahh! I\'m\ncumming like a bitch in heat! That was good!</p>
+				<p i="1">Ohhh...was macht\nihr Jungs mit mir...(KLATSCH!) Ahhh!</p>
+				<p i="2">Oh da sind\naufeinmal ein Dutzend von ihnen! Sie essen mich bei lebendigem Leib!</p>
+				<p i="3">Ahh! Ich komme\nwie eine notgeile Schlampe! Das war gut!</p>
 			</scenes>			
 
 	<!--JABBIs (Fly-like creature from Paper Mario II)-->
 			<scenes scene="jabbi">
-				<p i="1">Hey! Calm down,\nI\'ll...ooh its too late to escape!</p>
-				<p i="2">Oooh, what?\nwhat are you doing? Aaah this is insane!</p>
-				<p i="3">Ohh! I am\nfeeling your thing touching my gut!</p>
-				<p i="3a">I am...CUMMING!\nMy pussy is shivering with this!</p>
-				<p i="4">Ohh! You\'re\nrubbing them! Ahh!</p>
-				<p i="5">What are you...\nplease don\'t stop it!</p>
-				<p i="5a">I am cumming!\nAt least you preserved my...holes...</p>
+				<p i="1">Hey! Beruhige dich,\nich werde..ooh es ist zu spät für die Flucht!</p>
+				<p i="2">Oooh, was?\nWas machst du? Aaah das ist verrückt!</p>
+				<p i="3">Ohh! Ich fühle\nwie mich dein Ding berührt!</p>
+				<p i="3a">I...KOMME!\nMeine Muschi zittert schon davon!</p>
+				<p i="4">Ohh! Du reibst sie! Ahh!</p>
+				<p i="5">Was...\nbitte hört nicht auf damit!</p>
+				<p i="5a">Ich komme!\nWenigstens hast du meine...Löcher... erhalten</p>
 			</scenes>			
 			<scenes scene="jabbi2">
-				<p i="1">Hey! Don\'t!\nOooh he\'s teasing my ears and neck!</p>
-				<p i="2">A...Another one!?\nCalm down guys, I...I... (better think fast!)</p>
-				<p i="3">Hey! Calm down,\nI\'ll...ooh its too late to escape!</p>
-				<p i="4">Ohh! I am\nfelling your thing in my anus!! Ahhhh!</p>
-				<p i="4a">Better suck and...\nAhhh that one is fucking me!</p>
-				<p i="5">Ahhhhh! Ahhh!\nI am cumming! They don\'t stop gushing out!</p>
+				<p i="1">Hey! Nein!\nOooh er erregt mich an meinen Ohren und meinem Nacken!</p>
+				<p i="2">N...Noch einer!?\nBeruhigt euch, ich...ich... (besser schnell denken!)</p>
+				<p i="3">Hey! Ruhig Jungs,\nich werde...ooh es ist zu spät zum Entkommen!</p>
+				<p i="4">Ohh! Ichfühle\nDein Ding in meinem Hintereingang!! Ahhhh!</p>
+				<p i="4a">Besser lutschen und...\nAhhh der eine fickt mich!</p>
+				<p i="5">Ahhhhh! Ahhh!\nIch komme! Sie hören nicht auf zu spritzen!</p>
 			</scenes>			
 			<scenes scene="jabbi3">
-				<p i="1">Hey! What\nare you guys doin....I am getting dizzy!</p>
-				<p i="2">(Oooh!! Mmhhmp!\nThey\'re teasing all my holes! I must go!</p>
-				<p i="3">(Aaaah!! This is so\narousing! I feel my meat being eaten!)</p>
-				<p i="3a">(Ahhhh! They\'re\npulling my body up! They\'re plucked on me, I must flee!)</p>
-				<p i="4">Ahhhhh! Ahhh!\nI am cumming from all my holes!</p>
+				<p i="1">Hey! Was\nmacht ihr Jungs da....Mir wird schwindelig!</p>
+				<p i="2">(Oooh!! Mmhhmp!\nSie geilen sich an all meinen Löchern auf! Ich muss verschwinden!</p>
+				<p i="3">(Aaaah!! Das ist so\nerregend! Ich fühle wie sie an mir laben!)</p>
+				<p i="3a">(Ahhhh! Sie ziehen\nmeinen Körper hoch! Sie haben sich an mir festgesaugt. Ich muss fliehen!)</p>
+				<p i="4">Ahhhhh! Ahhh!\nMir kommts von allen Öffnungen!</p>
 			</scenes>			
 
 	<!--YUX (X-like creatures from Paper Mario II)-->
 			<scenes scene="yux1">
-				<p i="1">Hey! Ahhh!\nStop licking by bum!</p>
-				<p i="2">Ooh, don\'t\n fuck my asshole like this!!!</p>
-				<p i="3">I am\ncumming so much! This is embarassing!</p>
-				<p i="4">I am\ncumming so much! I need more of this!</p>
+				<p i="1">Hey! Ahhh!\nHör auf meinen Hinterteil zu lecken!</p>
+				<p i="2">Ooh, fick mein\nArschloch nicht so!!!</p>
+				<p i="3">Ich komme!\nDas ist so beschämend!</p>
+				<p i="4">Ich komme!\nIch brauche mehr davon!</p>
 			</scenes>			
 			<scenes scene="yux2">
-				<p i="1">Ohhh, no!\nYou\'re teasing my...my pussy! Go away!</p>
-				<p i="2">Oooooh, what\nare you...doing!!? Ahhh that\'s so crazy, I am getting horny!</p>
-				<p i="3">Ahhhh, it\'s\ngushing! Oooh I am so greasy!</p>
+				<p i="1">Ohhh, nein!\nDu erregst meine...meine Honigkuchen! Geh weg!</p>
+				<p i="2">Oooooh, Was...\nmachst du!!? Ahhh das ist so verrückt, ich werde geil!</p>
+				<p i="3">Ahhhh, es\nsprudelt nur so! Oooh ich bin so geingeölt!</p>
 			</scenes>			
 
 	<!--Pointeys-->
 			<scenes scene="pointey1">
-				<p i="1">Hmmmm, noo!\nWhat are you doing in my butt...Stop! Ah!</p>
-				<p i="2">Ooooh, you\'re fucking\nit... right here...Do it quick!</p>
+				<p i="1">Hmmmm, neiin!\nWas machst du in meinem Po...Stop! Ah!</p>
+				<p i="2">Ooooh, du fickst es...\ngleich hier...mach schnell!</p>
 			</scenes>			
 
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
-				<f i="1">What do you want to do with your \'mommy\'? \n1) Suck her boobies  2) Suck her pussy \n3) Gangbang!  {NEXTKEY}) Go away</f>
+				<f i="1">Was willst du mit deiner \'Mammie\' machen? \n1) Saug an ihren Tittchen  2) Saug an ihrer Muschi \n3) Gruppensex!  {NEXTKEY}) Weggehen</f>
 			</scenes>			
 			<scenes scene="luma1">
-				<p i="1">Oh so are you\nHungry? But....let\'s do this elsewhere...</p>
+				<p i="1">Oh also bist du\nhungrig? Aber....lass uns das woanders machen...</p>
 			</scenes>			
 			<scenes scene="luma2">
-				<p i="1">Hey! Calm\ndown...My boobies aren\'t there!</p>
+				<p i="1">Hey! Ruhig\n...das sind nicht meine Brüste!</p>
 			</scenes>			
 			<scenes scene="luma3">
-				<p i="1">\nCome here, my little babies. Mommy\'s here!</p>
-				<p i="1a">\nOh! Lumas! Are you looking for your mommy?</p>
+				<p i="1">\nKommt her, meine kleinen Babys. Mammie ist ja da!</p>
+				<p i="1a">\nOh! Lumas! Sucht ihr nach eurer Mama?</p>
 				<p i="2">\nMmmm!</p>
-				<p i="2a">\nHey wait!</p>
-				<p i="3">*giggle*\nSo amusing!\nYes, dance for me!</p>
-				<p i="3a">\nUmmm...\nWhat are you--?</p>
-				<p i="4">\nOoh! Yes, babies!\nCome play with mommy!</p>
-				<p i="4a">\nOh my! Stay out of there! Aah! Stop sucking!</p>
-				<p i="5">\nOoh! That\ntickles! Feels nice!</p>
-				<p i="5a">\nAah! My ass! What\'s going on?</p>
-				<p i="6">\nYes! Keep going!\nI\'m gonna--!!</p>
-				<p i="6a">\nOoh! What did Rosalina teach you? Feels good!</p>
+				<p i="2a">\nHey wartet!</p>
+				<p i="3">*kicher*\nSo amüsant!\nJa, tanz für mich!</p>
+				<p i="3a">\nUmmm...\nWas zum--?</p>
+				<p i="4">\nOoh! Ja, Babys!\nKommt und spielt mit Mammie!</p>
+				<p i="4a">\nAch du..! Bleibt weg! Aah! Hört auf zu saugen!</p>
+				<p i="5">\nOoh! Das\nkitzelt! Fühlt sich schön an!</p>
+				<p i="5a">\nAah! Mein Arsch! Was passiert da?</p>
+				<p i="6">\nJa! Macht weiter!\nIch werde--!!</p>
+				<p i="6a">\nOoh! Was hat euch Rosalina nur beigebracht? Fühlt sich schön an!</p>
 				<p i="7">\nMfff!!\nMnaah!!</p>
-				<p i="8">Mmmm!\nYou make mommy cum so hard when you play like that!</p>
-				<p i="8a">Oooh! Those Lumas knew all the right places! Unnh! Cumming again!</p>
+				<p i="8">Mmmm!\nWenn ihr so mit eurer Mammie spielt kommt eure Mutter bis in den siebten Himmel!</p>
+				<p i="8a">Oooh! Diese Lumas kennen genau die richtigen Punkte! Unnh! Mir kommts nochmal!</p>
 			</scenes>			
 
 	<!--PUNIO (and punies) - bug-like creatures from PAPER MARIO II-->
 			<scenes scene="punio1"> <!--helping the princess to enter the hole-->
-				<p i="1">Hey! Punio!\nThis is not right, really...</p>
-				<f i="1">I will help you! Yey!</f>
-				<p i="2">Ahhh! Better not\nto say anything. It\'s...good!</p>
-				<f i="2">I\'ll lub you\n in order to push you!</f>
-				<p i="3">Ohhh! I am\nstuck! Aaahhh help me! Ohhh like this! Again!</p>
-				<f i="3">I\'m almost done!</f>
+				<p i="1">Hey! Punio!\nDas ist nicht das richtige... ernsthaft...</p>
+				<f i="1">Ich werde dir helfen! Yey!</f>
+				<p i="2">Ahhh! Besser ich\nsage nichts. Es ist...angenehm!</p>
+				<f i="2">Ich werde dich\neinschmieren um dich dann durchzudrücken!</f>
+				<p i="3">Ohhh! Ich\nstecke fest! Aaahhh hilf mir! Ohhh so schon wieder!</p>
+				<f i="3">Bin fast fertig!</f>
 			</scenes>			
 			<scenes scene="punioSex"> <!--Having sex with a female punio-->
-				<p i="1">That is soooo cute! I like to see animals copulating!</p>
+				<p i="1">Das ist soooo süß! Ich sehe es gerne wie sich Tiere paaren!</p>
 			</scenes>			
 			<scenes scene="punygroup1">
-				<p i="1">Hey guys, stop!\nYou little creatures are...exaggerating!</p>
-				<f i="1">Food! We\nneed food!!</f>
-				<p i="2">Noo, dont tease my pussy! I am a damnsel!</p>
-				<f i="3">Puny: Hello, Princess! We\'re glad you\'re in our sweet home!</f>
-				<f i="4">Puny: We\'re been talking in our round table. So many things to do after Mario freed us!</f>
-				<f i="5">Puny: Princess, when are you going to join us and the nature?</f>
-				<f i="6">Puny: Princess, we\'ve been searching for our Puny Elder. Please find him, he has something to say.</f>
-				<p i="7">\n1) Play with the Princess\n2) Let her go</p>
+				<p i="1">Hey Jungs, wartet mal!\nIhr kleinen Kreaturen seit wirklich am...übertreiben!</p>
+				<f i="1">Futter! Wir\nbrauchen Futter!!</f>
+				<p i="2">Neiin, geilt nicht\nmeine Muschi auf! Ich bin eine Jungfer!</p>
+				<f i="3">Puny: Hallo, Prinzessin! Wir freuen uns, dass ihr uns in unserem niedlichen Zuhause besuchen kommt!</f>
+				<f i="4">Puny: Wir haben uns an unserer Rundtafel beratschlagt. So viele Dinge sind zu tun nachdem uns Mario befreit hat!</f>
+				<f i="5">Puny: Prinzessin, wann werdet ihr uns und dem Ruf der Natur beiwohnen?</f>
+				<f i="6">Puny: Prinzessin, wir suchten vergebns nach unserem Ältesten. Bitte findet ihn, er hat etwas zu sagen.</f>
+				<p i="7">\n1) Spiel mit der Prinzessin\n2) Lass sie gehen</p>
 			</scenes>			
 
 	<!--WARIO (he is considered a friend, although as bad as a bullier)-->
 			<scenes scene="wario1">
-				<p i="1">Wario, nooo!\nIt\'s embarassing, stop doing that, oh my Mushroms!</p>
-				<p i="1a">Wario, stop that\nyou hear this? I am not kidding!</p>
-				<p i="1b">Wario, you\'re\ngoing too far for just coins! Don\'t be mean! Oh!</p>
-				<f i="1">Gimme all\nthe money, slut!</f>
-				<f i="1a">I want MONEY\nup from your ass!</f>
+				<p i="1">Wario, neiiin!\nDu bringst mich in Verlegenheit, hör damit auf. Oh meine Pilze!</p>
+				<p i="1a">Wario, hör auf,\nhörst du? Ich mach keine Scherze!</p>
+				<p i="1b">Wario, du gehst\nzu weit und das nur für ein paar Münzen! Sei nicht so gemein! Oh!</p>
+				<f i="1">Gib mir dein\nganzes Geld, Schlampe!</f>
+				<f i="1a">Ich will GELD\nund zwar in deinem Arsch!</f>
 			</scenes>			
 			<scenes scene="wario2">
-				<p i="1">Hey, what are\nyou doing, Wario? Do you want me to...fuck you?</p>
-				<f i="1">Help me,\nbitch!</f>
-				<p i="2">Wario, I\'ll fuck\nyou slowly! Oooh just a bit...</p>
-				<p i="2a">Wario, do I really\nneed to do this? Aoooh!</p>
-				<f i="3">DAT was GOOD! But\nNO MONEY for you!</f>
-				<p i="3">Ahhh, I am\ncumming ounces of cum like a bitch!</p>
-				<p i="3a">Wario, your\nthing is gushing so much! Oooh!</p>
+				<p i="1">Hey, was machst\ndu da, Wario? Willst du, dass ich...dich ficke?</p>
+				<f i="1">Hilf mir,\nSchlampe!</f>
+				<p i="2">Wario, ich werde\ndich ficken, langsam! Oooh nur ein kleines bisschen...</p>
+				<p i="2a">Wario, muss ich das\nwirklich tun? Aoooh!</p>
+				<f i="3">DAS war GUT! Aber\nKEIN GELD für dich!</f>
+				<p i="3">Ahhh, Ich\nkomme, unendlich viel Sperma wie eine brave Schlampe!</p>
+				<p i="3a">Wario, du\nkommst so unglaublich viel! Oooh!</p>
 			</scenes>			
 
 	<!--LUIGI-->
 			<scenes scene="luigi">
-				<f i="1">Luigi: Hello, princess! I hope all is well with you and your kingdom.</f>
-				<f i="2">Luigi: Hello, princ.... (she\'s EXPOSED! What happened to her?) Errr... I hope all is well with you and your kingdom.</f>
-				<p i="3">(Press a Number)\n1) Where is Mario? \n2) Nevermind, thank you!</p>
-				<p i="4">Princess: Luigi! I am happy you\'re here!</p>
-				<p i="5">Princess: Well, so so... I am searching for Mario!</p>
-				<p i="6">(Press a Number)\n1) Where is Mario? \n2) Nevermind, thank you!</p>
-				<f i="7">Luigi: I dont know where my bro is. He keeps disappearing and he never calls me!</f>
-				<f i="8">Luigi: Moreover, I am reading a great book I\'ve made. It\'s name is: \'Touching inner areas\' Are you wishing to hear it?</f>
-				<p i="9">(Press a Number)\n1) Yes, please read it! \n2) No, thank you!</p>
-				<f i="10">Are you for real?</f>
+				<f i="1">Luigi: Hallo, Prinzessin! Ich hoffe bei dir und in deinem Königreich ist alles in Ordnung.</f>
+				<f i="2">Luigi: Hallo, Prinz.... (sie ist NACKT! Was ist ihr widerfahren?) Ehhh... Ich hoffe bei dir und in deinem Königreich ist alles in Ordnung.</f>
+				<p i="3">(Drücke eine Nummer)\n1) Wo ist Mario? \n2) Schon gut, danke dir!</p>
+				<p i="4">Prinzessin: Luigi! Ich bin so froh, dass du hier bist!</p>
+				<p i="5">Prinzessin: Nun, also... Ich suche nach Mario!</p>
+				<p i="6">(Drücke eine Nummer)\n1) Wo ist Mario? \n2) Schon gut, danke dir!</p>
+				<f i="7">Luigi: Ich weiß nicht wo mein Bruder ist. Er hört nicht auf zu verschwinden und anrufen tut er auch nicht!</f>
+				<f i="8">Luigi: Darüber hinaus, lese ich ein tolles Buch, welches ich geschrieben habe. Es heißt: \'Berührung innerer Bereiche\' Möchtest du etwas drauß hören?</f>
+				<p i="9">(Drücke eine Nummer)\n1) Ja, bitte lies mir vor! \n2) Nein, dankeschön!</p>
+				<f i="10">Bist du sicher?</f>
 			</scenes>			
 			<scenes scene="luigiGloryhole">
-				<p i="1">Oh, this toilet\nsmells so...manly? It makes me want to do something naughty!</p>
-				<f i="1">\nWhat was that noise?\nIs it a ghost!?</f>
-				<p i="2">Oooh! This naughty\nfeeling is so good! I hope no one comes in. I don\'t want to stop!</p>
-				<f i="2">\nWait! Is that...{CHARACTER_NAME}? Masturbating!? Wowowowow!!</f>
-				<p i="3">Oh! Someone was in\nthe other stall! I should go...but I want to get a closer look first!</p>
-				<f i="3">\nWhat are you doing Luigi? She\'s gonna freak out now and run away!</f>
-				<p i="4">Mmm. It tastes\nreally good! It kind of smells like Mario, but different.</p>
-				<f i="4">This was a mist--\nWHOA! Wowee! My dick feels wet all of a sudden!</f>
-				<p i="5">\nOooh, sucking on this dick is so arousing! I\'m gonna cum soon!</p>
-				<f i="5">OOOH! My dick!\nI\'m in heaven! She is sucking my dick! I\'ve never felt so good!</f>
-				<p i="6">Oh wow! I came\nso hard! I just want to enjoy this, but I better leave quickly!</p>
-				<f i="6">Whew! That was AWESOME!! I wonder if she\'ll come back here again?</f>
+				<p i="1">Oh, diese Toilette\nriecht so...männlich? Es sorgt dafür, dass ich was unanständiges machen will!</p>
+				<f i="1">\nWas war das für ein Geräusch?\nIst es ein Geist?</f>
+				<p i="2">Oooh! Dieses unanständige\nGefühl ist so schön! Ich hoffe niemand kommt herein. Ich will nicht aufhören!</p>
+				<f i="2">\nWarte! Ist das...{CHARACTER_NAME}? Masturbiert sie!? Wowowowow!!</f>
+				<p i="3">Oh! Jemand war in\nder anderen Kabine! Ich sollte gehen...aber ich würde mir das gerne zunächst genauer anschauen!</p>
+				<f i="3">\nWas machst du da Luigi? Sie wird austicken und wegrennen!</f>
+				<p i="4">Mmm. Es schmeckt\nwirklich gut! Es schmeckt fast so wie Mario, aber anders.</p>
+				<f i="4">Das war ein Fehl--\nWOA! Wowee! Mein Schwanz fühlt sich plötzlich feucht an!</f>
+				<p i="5">\nOooh, diesen Schwanz zu lutschen ist so erregend! Ich werde bald kommen!</p>
+				<f i="5">OOOH! Mein Schwanz!\nIch bin im Himmel! Sie lutscht meinen Schwanz! Ich habe mich noch nie so gut gefühlt!</f>
+				<p i="6">Oh wow! Ich bin so\nheftig gekommen! Ich will das einfach nur genießen, aber besser ich verschwinde schnell von hier!</p>
+				<f i="6">Whew! Das war der WAHNSINN!! Ich frage mich ob sie wohl wieder hierhin kommt?</f>
 			</scenes>			
 			
 			<!--LUIGI BOOKS-->
 			<scenes scene="LuigiBook1">
 				<f i="MakeHerHornySincePageNumber">1</f>
 				<f i="MakeHerMasturbateSincePageNumber">4</f>
-				<f i="phrase1">Then he taken her\npussy over the table. \'OH DONT DO THAT!\'</f>
-				<f i="phrase2">I was ashamed.\nBut I wanted to walk along the street naked!</f>
-				<f i="phrase3">I am all alone here.\n My pussy is dripping so bad..how about now?</f>
-				<f i="phrase4">\'He pushed my butt\ncheeks, then smacked it firmly. I... cummed!!\'</f>
-				<f i="phrase5">\'HAHAHAHAHA\'\nBowser said. How about now, your dirty barenaked slut?</f>
-				<f i="phrase6">\'Do you want me\nto fuck your dripping pussy?\' She said: Aaaaaaaah!</f>
-				<f i="phrase7">Then he retrieved\nthe treasury, while she was fucking a mushroom nearby...</f>
+				<f i="phrase1">Dann nahm er sie\ndirekt auf dem Tisch. \'OH TU DAS NICHT!\'</f>
+				<f i="phrase2">Ich war beschämt.\nAber ich wollte die Straße nackt entlang laufen!</f>
+				<f i="phrase3">Ich bin ganz alleine hier.\n Aus meiner Muschi tropft es nur so..wie gehts jetzt weiter?</f>
+				<f i="phrase4">\'Er hatt meine Arschbacken\nauseinander gedrückt, dann hat er feste draufgeklatscht. Ich... bein gekommen!!\'</f>
+				<f i="phrase5">\'HAHAHAHAHA\'\nsagte Bowser. Was jetzt du splitterfasernacktes Flittchen?</f>
+				<f i="phrase6">\'Willst du, dass ich\ndir dein tropfendes Loch stopfe?\' Sie sagte: Aaaaaaaah!</f>
+				<f i="phrase7">Dann barg er den\nSchatz, während sie es mit einem nahgelegenen Pilz trieb...</f>
 			</scenes>			
 			<scenes scene="LuigiBook2"> <!--its identical but you can customize and create new small books, provided it follows the convetion LuigiBookNUMBER-->
 				<f i="MakeHerHornySincePageNumber">1</f>
 				<f i="MakeHerMasturbateSincePageNumber">4</f>
-				<f i="phrase1">Then he taken her\npussy over the table. \'OH DONT DO THAT!\'</f>
-				<f i="phrase2">I was ashamed.\nBut I wanted to walk along the street naked!</f>
-				<f i="phrase3">I am all alone here.\n My pussy is dripping so bad..how about now?</f>
-				<f i="phrase4">\'He pushed my butt\ncheeks, then smacked it firmly. I... cummed!!\'</f>
-				<f i="phrase5">\'HAHAHAHAHA\'\nBowser said. How about now, your dirty barenaked slut?</f>
-				<f i="phrase6">\'Do you want me\nto fuck your dripping pussy?\' She said: Aaaaaaaah!</f>
-				<f i="phrase7">Then he retrieved\nthe treasury, while she was fucking a mushroom nearby...</f>
-			</scenes>			
+				<f i="phrase1">Die beiden Brüder\nfanden sie in einer Röhre steckend vor.</f>
+				<f i="phrase2">\'Bitte helft mir\'\n rief sie. \'Ich werde dich von hinten durhschieben\'!</f>
+				<f i="phrase3">Er drückte mir\naller Kraft gegen ihren fetten Arsch. Erst mit den Händen dann mit seinem Becken.</f>
+				<f i="phrase4">\'Ich fühlte wie\netwas in seiner Hose hart wurde, als er mich immer heftiger versuchte durchzupressen.\'</f>
+				<f i="phrase5">\'So ein unglaublich\nverführerischer Arsch.. ich glaube...\' dachte sich der eine Bruder.</f>
+				<f i="phrase6">Der eine Bruder\nhob das Kleid an und ihm bot sich ein so schöner Anblick, wie er ihn schon lange nicht mehr genießen konnte!</f>
+				<f i="phrase7">Er zog sich mühsam die Hose herunter und musste feststellen, dass sein Schwanz unglaublich prall gefüllt war...</f>
+			</scenes>				
+			<scenes scene="LuigiBook3"> <!--its identical but you can customize and create new small books, provided it follows the convetion LuigiBookNUMBER-->
+				<f i="MakeHerHornySincePageNumber">1</f>
+				<f i="MakeHerMasturbateSincePageNumber">4</f>
+				<f i="phrase1">Dann zog er der\nPrinzessin das Höschen herunter. Der andere Bruder bemerkte nur wie sie große Augen machte.</f>
+				<f i="phrase2">\'BRUDERHERZ ich versuch es nochmal fest, bitte bring sie solange zum Schweigen\' Rief der eine.</f>
+				<f i="phrase3">\'Tut mir ja leid\nPrinzessin, aber es geht nicht anders\' sagte der andere Bruder.</f>
+				<f i="phrase4">\'HEY er hahhmpf\nmhmf!!!\' Und auf der anderen Seite ...</f>
+				<f i="phrase5">...schob er ihr seinen fetten Schwanz sofort tief rein bis er auf widerstand stieß</f>
+				<f i="phrase6">\'ahhhhhh!!\'\ngrummelte die Prinzessin während ihre Augen noch weiter wurden.</f>
+				<f i="phrase7">Er ging einen\nSchritt nach vorne, griff ihre Arschbacken mit den Fingern, spreizte ihre Fotze mit den Daumen...</f>
+			</scenes>						
+			<scenes scene="LuigiBook4"> <!--its identical but you can customize and create new small books, provided it follows the convetion LuigiBookNUMBER-->
+				<f i="MakeHerHornySincePageNumber">1</f>
+				<f i="MakeHerMasturbateSincePageNumber">4</f>
+				<f i="phrase1">Presste ihr Gesäß\nund ihre Spalte so weit auseinander wie er konnte und atmete inbrünstig aus.</f>
+				<f i="phrase2">Dann stieß er\nihr seinen dicken Schwanz bis tief in die Gebärmutter rein.</f>
+				<f i="phrase3">\'AAHHHhhh..\'\nverstummte ihr Schrei während sich ihre Augen verdrehten.</f>
+				<f i="phrase4">Als der andere\nBruder sah wie sie nur noch halb bei bewusstsein war guckte er verstohlen nach links und nach rechts.</f>
+				<f i="phrase5">Es dauerte nicht lang und auch seine fallende Hose entblößte einen, obwohl noch schlaff, gigantischen Schwanz.</f>
+				<f i="phrase6">Er drückte ihr\nsein bestes Stück ins Gesicht und rieb sich daran. Immer etwas schneller und langsam wurde er hart.</f>
+				<f i="phrase7">Nach einer Weile\nsetzten sich seine Adern bemerkbar von seinem harten Rohr ab und er wusste es ist Zeit...</f>
+			</scenes>						
+			<scenes scene="LuigiBook5"> <!--its identical but you can customize and create new small books, provided it follows the convetion LuigiBookNUMBER-->
+				<f i="MakeHerHornySincePageNumber">1</f>
+				<f i="MakeHerMasturbateSincePageNumber">4</f>
+				<f i="phrase1">Langsam steckte\ner ihr seine große Eichel in den Mund, der kaum so weit aufging, dass sie hinein passte.</f>
+				<f i="phrase2">Immernoch benommen\ndurch den Schmerz den ihr der eine Bruder von hinten verursacht, verstand sie was vorne passiert.</f>
+				<f i="phrase3">Verloren schaute\nsie ihn an. \'Jia, entspann dich mein Schätzchen\' warf er ihr entgegen.</f>
+				<f i="phrase4">Stück für Stück\nschob er ihr sein Prachtrohr tiefer in den Hals. Am Rachenende angekommen bemerkte sie...</f>
+				<f i="phrase5">...wie ihr\nZungengrund und ihr Kiefer immer weiter nach unten gequetscht werden.</f>
+				<f i="phrase6">\'Mhneimmh\'\nstammelte sie von sich, aber der andere Bruder machte immer weiter.</f>
+				<f i="phrase7">Jetzt fühlte\nsie wie die Eichel ihren Kehlkopf auseinander drückte ...</f>
+			</scenes>		
+			<scenes scene="LuigiBook6"> <!--its identical but you can customize and create new small books, provided it follows the convetion LuigiBookNUMBER-->
+				<f i="MakeHerHornySincePageNumber">1</f>
+				<f i="MakeHerMasturbateSincePageNumber">4</f>
+				<f i="phrase1">Es begann in\nihrem Hals zu knacken und zu ächzen. Dann schaute der andere Bruder sie an.</f>
+				<f i="phrase2">\'Du kannst dir\neinfach nicht vorstellen wie gut sich das anfühlt, Prinzesschen\'.</f>
+				<f i="phrase3">Er presste sich\nnoch fester in Richtung ihres Gesichts und zog ihren Kopf noch kräftiger an sich heran.</f>
+				<f i="phrase4">\'Oh ja, nur noch\nein kleines Stück!\' Sie vernahm wie der andere Bruder immer geiler wurde...</f>
+				<f i="phrase5">...wodurch auch\nsie geil wurde und sich ihr Hals etwas entspannte.</f>
+				<f i="phrase6">\In diesem Moment\nzwängte sich sein fetter Schwanz durch das letzte Hindernis.</f>
+				<f i="phrase7">Sie fühlte wie sich die Anakonda ihren Weg suchte, bis sie seinen Schambereich im Gesicht fühlte.</f>
+			</scenes>		
+			<scenes scene="LuigiBook7"> <!--its identical but you can customize and create new small books, provided it follows the convetion LuigiBookNUMBER-->
+				<f i="MakeHerHornySincePageNumber">1</f>
+				<f i="MakeHerMasturbateSincePageNumber">4</f>
+				<f i="phrase1">Es begann in\nihrem Hals zu knacken und zu ächzen. Dann schaute der andere Bruder sie an.</f>
+				<f i="phrase2">\'Du kannst dir\neinfach nicht vorstellen wie gut sich das anfühlt, Prinzesschen\'.</f>
+				<f i="phrase3">Er presste sich\nnoch fester in Richtung ihres Gesichts und zog ihren Kopf noch kräftiger an sich heran.</f>
+				<f i="phrase4">\'Oh ja, nur noch\nein kleines Stück!\' Sie vernahm wie der andere Bruder immer geiler wurde...</f>
+				<f i="phrase5">...wodurch auch\nsie geil wurde und sich ihr Hals etwas entspannte.</f>
+				<f i="phrase6">\In diesem Moment\nzwängte sich sein fetter Schwanz durch das letzte Hindernis.</f>
+				<f i="phrase7">Sie fühlte wie sich die Anakonda ihren Weg suchte, bis sie seinen Schambereich im Gesicht fühlte.</f>
+			</scenes>	
 			
 	<!--FLAVIO (dummy pirate from PAPER MARIO II)-->
 			<scenes scene="flavio1">
